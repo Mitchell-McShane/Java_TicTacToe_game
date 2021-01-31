@@ -2,6 +2,8 @@
 
 Game based on Tic Tac Toe made entirely in Java.
 
+![TicImage](src/Images/TicImage.png)
+
 ## How to play
 
 - Pull the repo and run it using the Java IDE of your choice. (This was made using IntelliJ IDEA CE).
